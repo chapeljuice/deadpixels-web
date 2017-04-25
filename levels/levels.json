@@ -45,6 +45,52 @@
           "y-axis": 33
         }
       ]
+    },
+    {
+      "level": 2,
+      "size": 19,
+      "pixels": [
+        {
+          "x-axis": 64,
+          "y-axis": 54
+        },
+        {
+          "x-axis": 22,
+          "y-axis": 41
+        },
+        {
+          "x-axis": 5,
+          "y-axis": 20
+        },
+        {
+          "x-axis": 65,
+          "y-axis": 67
+        },
+        {
+          "x-axis": 35,
+          "y-axis": 66
+        },
+        {
+          "x-axis": 54,
+          "y-axis": 7
+        },
+        {
+          "x-axis": 9,
+          "y-axis": 89
+        },
+        {
+          "x-axis": 8,
+          "y-axis": 22
+        },
+        {
+          "x-axis": 65,
+          "y-axis": 50
+        },
+        {
+          "x-axis": 16,
+          "y-axis": 70
+        }
+      ]
     }
   ]
 }
