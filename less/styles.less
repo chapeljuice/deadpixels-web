@@ -1,0 +1,62 @@
+/* ------------------------ */
+/* deadpixels - web edition */
+/* ------------------------ */
+
+* {
+	box-sizing: border-box;
+}
+
+html,body,div,span,h1,h2,h3,h4,h5,h6,
+p,img,strong,ol,ul,li,form,label,article,aside,
+canvas,footer,header,hgroup,main,menu,nav,section {
+  border: 0;
+  margin: 0;
+  padding: 0;
+  vertical-align: baseline;
+}
+
+article,aside,details,figcaption,figure,
+footer,header,hgroup,main,menu,nav,section {
+  display: block;
+}
+
+html {
+  font-size: 62.5%;
+  height: 100%;
+  overflow-y: scroll;
+}
+
+.wf-loading body,
+.wf-loading h1 {
+  visibility: hidden;
+}
+
+.wf-active body,
+.wf-active h1 {
+  visibility: visible;
+}
+
+.game-area {
+
+	.pixel {
+		-webkit-appearance: none;
+			 -moz-appearance: none;
+						appearance: none;
+		border: none;
+		border-radius: 0;
+		background: black;
+
+		&.clicked {
+			animation: clicked 100ms ease-out;
+		}
+	}
+}
+
+@keyframes clicked {
+	0% {
+		opacity: 1
+	}
+	100% {
+		opacity: 0
+	}
+}

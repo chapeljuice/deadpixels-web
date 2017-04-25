@@ -1,0 +1,50 @@
+{
+  "levels": [
+    {
+      "level": 1,
+      "size": 20,
+      "pixels": [
+        {
+          "x-axis": 20,
+          "y-axis": 30
+        },
+        {
+          "x-axis": 30,
+          "y-axis": 2
+        },
+        {
+          "x-axis": 75,
+          "y-axis": 2
+        },
+        {
+          "x-axis": 34,
+          "y-axis": 69
+        },
+        {
+          "x-axis": 8,
+          "y-axis": 22
+        },
+        {
+          "x-axis": 89,
+          "y-axis": 22
+        },
+        {
+          "x-axis": 10,
+          "y-axis": 27
+        },
+        {
+          "x-axis": 43,
+          "y-axis": 90
+        },
+        {
+          "x-axis": 66,
+          "y-axis": 50
+        },
+        {
+          "x-axis": 19,
+          "y-axis": 33
+        }
+      ]
+    }
+  ]
+}
